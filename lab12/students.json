@@ -1,0 +1,74 @@
+[
+    {
+      "surname": "Doe",
+      "firstName": "John",
+      "studentCode": "123",
+      "age": 20,
+      "dob": "2003-01-01",
+      "gpa": 3.5,
+      "leaveStatus": "Active"
+    },
+    {
+      "surname": "Smith",
+      "firstName": "Jane",
+      "studentCode": "456",
+      "age": 21,
+      "dob": "2002-05-15",
+      "gpa": 3.9,
+      "leaveStatus": "Inactive"
+    },
+    {
+      "surname": "Johnson",
+      "firstName": "Bob",
+      "studentCode": "789",
+      "age": 22,
+      "dob": "2001-08-20",
+      "gpa": 3.2,
+      "leaveStatus": "Active"
+    },
+    {
+      "surname": "Williams",
+      "firstName": "Emily",
+      "studentCode": "101",
+      "age": 19,
+      "dob": "2004-02-10",
+      "gpa": 3.8,
+      "leaveStatus": "Inactive"
+    },
+    {
+      "surname": "Doe",
+      "firstName": "John",
+      "studentCode": "123",
+      "age": 20,
+      "dob": "2003-01-01",
+      "gpa": 3.5,
+      "leaveStatus": "Active"
+    },
+    {
+      "surname": "Smith",
+      "firstName": "Jane",
+      "studentCode": "456",
+      "age": 21,
+      "dob": "2002-05-15",
+      "gpa": 3.9,
+      "leaveStatus": "Inactive"
+    },
+    {
+      "surname": "Johnson",
+      "firstName": "Bob",
+      "studentCode": "789",
+      "age": 22,
+      "dob": "2001-08-20",
+      "gpa": 3.2,
+      "leaveStatus": "Active"
+    },
+    {
+      "surname": "Williams",
+      "firstName": "Emily",
+      "studentCode": "101",
+      "age": 19,
+      "dob": "2004-02-10",
+      "gpa": 3.8,
+      "leaveStatus": "Inactive"
+    }
+  ]
